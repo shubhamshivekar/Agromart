@@ -1,5 +1,5 @@
-# Amazona ECommerce Website
-![amazona](/template/images/amazona.jpg)
+# Agromart ECommerce Website
+![agromart](C:\Users\Admin\Downloads)
 
 ## PLEASE DO NOT SEND PULL REQUEST
 ## ALL PRs WILL BE REJECTED UNTIL DECEMBER 2020
